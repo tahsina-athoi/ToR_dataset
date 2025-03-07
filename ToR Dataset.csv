@@ -1,0 +1,619 @@
+﻿Text,Criteria,Level
+The system will enable making and installation of data entry software and a web-based database for beneficiaries of the National Service Programme.,Requirements,Complete
+"The application must have a responsive interface compatible with multiple devices, including mobile, desktop, and large screens",Requirements,Complete
+"The system must include modules such as Employee Management, Leave Management, and Training Records Management to handle FSCD operations. Each module must support role-based access control to ensure data security and accessibility.",Requirements,Complete
+"The system must include modules such as Traffic Monitoring, Data Analysis, and Emergency Response Coordination for effective ITS management. All kinds of standard testing tasks that are required to be performed
+at the development phase should be mentioned in the plan. Considering the scope
+mentioned in the TOR for this e-Service application, vendor is requested to include a
+preliminary development plan (standard approach) in their technical proposal.",Requirements,Complete
+"The web application will support features like business idea submission, geolocation integration, and automated notifications for stakeholders.",Requirements,Complete
+The system should be available to users 24x7x365 days a year without any unapproved downtime,Requirements,Complete
+"The GIS database of LGED is linked with the road database, and any change in the road database will reflect dynamically on GIS.",Requirements,Complete
+"The system shall be designed to handle estimated 120,000 simultaneous
+connection (online users) when it is ultimately rolled out. Page load time, login response-time, on-click load time for the web application
+should be less than 3 seconds while this is accessed over the intranet. Average transaction response time, on-submit response-time, or any other
+database access/ search time should be less than 5 seconds when the
+system solution is accessed over the intranet. Considering the network infrastructure challenges in Bangladesh, the solution
+must support low bandwidth conditions for the services defined in the
+functional requirements.",Requirements,Complete
+"The system should be capable of handling the entry, unloading, and delivery of goods at multiple ports, tracking consignments with unique identification numbers, and automating the entire warehousing process with real-time status updates available to stakeholders. All processes, including billing and payment, should be fully integrated and accessible online for all concerned parties.",Requirements,Complete
+The project involves transforming manual zakat collection and distribution into an online system to improve accessibility and transparency for zakat providers and recipients.,Requirements,Complete
+"The consultant will conduct a feasibility study of the ERP solution, including budget estimates and infrastructure requirements.",Requirements,Complete
+"The assignment requires enhancements to the Eksheba system for structured database management and reporting to stakeholders, ensuring robust service delivery.",Requirements,Complete
+"The overall objective of the assignment is to develop a centralised platform where a consumer can raise their valid complaints against an eCommerce company, and the CCMS platform can interact as a primary redressal tool for consumers and e-commerce companies moderated by appropriate administrative authorities.",Requirements,Complete
+"The system must enable users to register, track, and manage complaints through an integrated user interface. It should also support multilingual options for diverse user groups and provide automatic email notifications for status updates.",Requirements,Complete
+"The portal must include features such as secure user login, two-factor authentication, role-based access control, and a robust audit trail for user activity. Additionally, it must support real-time reporting of complaints and automated escalation of unresolved issues.",Requirements,Complete
+"The system must handle up to 10,000 simultaneous users with no degradation in performance. It must meet OWASP security standards, including data encryption and secure data storage, with regular security audits.",Requirements,Complete
+"The project should be delivered in three phases: Phase 1 (Design and Development) with a final working prototype by the end of month 3, Phase 2 (Testing and Deployment) completed by month 5, and Phase 3 (User Training and Handover) by month 6.",Requirements,Complete
+"Implementation strategy would be divided into four phases, quarter one, quarter two, quarter three and quarter four. Each quarter would be three months long. Total Duration of the assignment is 22 Months Six Months is core development period and Vendor needs to release Online version with functional attributes and functional & usable prototype. One Month for Model implementation as Pilot & POC. Three Months is for development period again for Limited and Offline Version. Twelve Months for Post Development Support Service and Change Management. Master Agreement will be for 10 Months and the Maintenance agreement will be for 12 months. Total contract value will be negotiated under the master agreement that will reflect the accumulated cost of product as budgeted and as negotiated there after during final negotiation meeting with the selected vendor. ",Requirements,Complete
+"The system must integrate seamlessly with the existing CRM, ERP, and financial platforms. Detailed API specifications for integration are provided in the annexure. The user interface must be responsive, mobile-friendly, and adhere to the provided wireframes and design guidelines. The system should be tested across multiple devices and browsers to ensure consistent user experience. The portal must comply with local data protection regulations (GDPR, CCPA) and provide reporting capabilities for administrators to track user activities, system logs, and report generation for monthly performance reviews.",Requirements,Complete
+The system must allow project progress information to be accessed visually through GIS-based maps and dashboards,Implementation,Complex
+"The vendor must host the system on their server during development and later transfer it to the FSCD data center for production testing with real data. Implementation involves system setup, hosting, and integration of plugins like SMS gateway if required.",Implementation,Complex
+Vendor will install and host the system on their server during development and later transfer it to the FSCD data center for production testing with real data.,Implementation,Complex
+"Vendor must propose a detailed Deployment and Implementation plan covering the major activities to be performed, including testing, hosting, and production rollout",Implementation,Complex
+"The implementation involves the development of a responsive web application using technologies such as Java, Spring Boot, and Angular, hosted on secure servers.",Implementation,Complex
+The implementation plan includes integration with SMS gateways and hosting on secure servers,Implementation,Complex
+The vendor shall provide tamper-proof audit trails and logs for administrator or auditor to check for the actions committed by users,Implementation,Complex
+Integrated digital government platform ensuring compliance with national e-Government standards and guidelines.,Implementation,Complex
+"The implementation will involve multiple stages, including detailed system design, integration with existing national systems, extensive testing, and user training. The complexity of these tasks requires a well-coordinated effort from all involved teams, including system architects, developers, and security experts.",Implementation,Complex
+"Implementation requires advanced technical planning and stakeholder coordination, making it a complex task.",Implementation,Complex
+"The implementation involves significant coordination between consultants and stakeholders, making it a complex task.",Implementation,Complex
+"The implementation requires both advanced technical expertise and substantial project management skills, making it a complex task.",Implementation,Complex
+"The implementation will involve phased deployment and coordination with multiple stakeholders, making it a complex task.",Implementation,Complex
+"The implementation involves several stages, including complete system integration with multiple external platforms, extensive testing for compliance, and migration of legacy data to the new system. The estimated timeline for full implementation is 6 months.",Implementation,Complex
+"Given the scale of the project, the implementation will occur in multiple phases: initial prototype, user feedback integration, integration with third-party services, and full deployment. The complexity of integration with legacy systems and custom software development makes this a complex process.",Implementation,Complex
+"The system implementation involves substantial customization to meet the unique needs of various user groups. The project will require detailed integration with existing infrastructure, adherence to strict regulatory compliance, and substantial testing. The total timeline for the complete system rollout is expected to exceed 12 months.",Implementation,Complex
+"The development timeline is not explicitly mentioned, but the Scrum approach suggests iterative and flexible delivery.",Delivery Time,Depends
+"The delivery timeline is not explicitly mentioned, though Scrum methodology suggests an iterative delivery process.",Delivery Time,Depends
+"The development timeline is not specified, and the Kanban process suggests continuous improvement.",Delivery Time,Depends
+"Total duration of the Maintenance and support service after implementation
+Proposed SDLC Phase-wise and deliverable-wise time distribution and
+duration",Delivery Time,Depends
+"Vendor must complete the project within a stipulated timeline based on the proposed SDLC methodology. The timeline is divided into three phases: Requirement Analysis, Development & Piloting, and Maintenance & Support.",Delivery Time,Depends
+"As the entire projects functional scope will be divided into multiple iterations, the release and deployment of each iteration will be dependent on the completion of the previous phase.",Delivery Time,Depends
+"The project implementation plan must ensure all activities are executed within the agreed timeframe, with penalties for delays as per the agreement.",Delivery Time,Depends
+"The contract duration is three months, with submission deadlines for technical and financial proposals.",Delivery Time,Early
+The work is expected to start once the contract is signed and is expected to be completed in approximately 3 months.,Delivery Time,Early
+"The proposed Agile development plan outlines eight sprints (each two weeks), indicating a structured timeline of 16 weeks for initial releases.",Delivery Time,Early
+The project must be completed within 30 days from the date of contract signing.,Delivery Time,Early
+"The project delivery timeline is expected to adhere to an agile methodology, ensuring phased releases within the first 18 months.",Delivery Time,Early
+"The total duration of the assignment is planned for 24 months, with delivery timelines specified in project phases.",Delivery Time,Early
+The implementation involves making and installing a database with minor integrations for beneficiary data storage.,Implementation,Easy
+Implementation of customized software solutions aligned with DSCC's specific operational needs.,Implementation,Easy
+"It needs to be a light-weight Web-based application having browser interoperability with rich 
+client-side scripting",Complex Projects,Low
+"The implementation of the system will involve a straightforward configuration of the existing platform with minimal modifications to the current infrastructure. No new hardware will be required, and the deployment can be completed within 1 month.",Implementation,Easy
+"The system will be implemented in a simple manner by upgrading existing features and functionalities. The implementation will not require extensive changes to the core architecture, and the process is expected to take 2-3 weeks.",Implementation,Easy
+"This is a minor update to the current platform. The implementation involves simple bug fixes and some visual tweaks. The systems architecture will remain unchanged, and the update will be completed in a short timeline of 2 weeks.",Implementation,Easy
+The system can be quickly deployed with minimal customization and configuration.,Implementation,Easy
+Installation and setup of the system are straightforward and can be completed in a short time.,Implementation,Easy
+The process of implementing the system is designed to be simple and efficient.,Implementation,Easy
+The deployment phase requires little effort and minimal disruption to existing operations.,Implementation,Easy
+The system is designed for seamless integration into the current infrastructure without complex adjustments.,Implementation,Easy
+"The service will be an interoperable service with maintaining land data bank, Vis a Vis, building capacity of land management practitioners with administration, management of land, revenue and court.",Flexibility,Flexible
+"Future technology changes, iterative prototyping, and agility in product design are generic expectations.",Flexibility,Flexible
+Ability to design and develop technical specifications based on business requirements and communicate technical requirements with a diverse group of stakeholders.,Flexibility,Flexible
+"SDV should adopt the agile development methodology. The entire work should be broken down into smaller chunks of MVPs (Minimum Viable Products), and every MVP should be demonstrated to the client before proceeding to the next MVP development.",Flexibility,Flexible
+"The system will be designed with flexibility, scalability, extendibility, and multitenancy of the system for future expansion.",Flexibility,Flexible
+The developed system should be modular enough to integrate future changes and scalable to handle a large user base from all over Nepal.,Flexibility,Flexible
+"The solution architecture should be designed for better performance, flexibility, scalability, extensibility, and multitenancy for future expansion.",Flexibility,Flexible
+"The system should be designed with flexibility, scalability, extensibility, and multi-tenancy for future expansion.",Flexibility,Flexible
+"The solution architecture should be based on a 3-tier web-based architecture, supporting scalability and distributed microservices architecture.",Flexibility,Flexible
+"Future technology changes, iterative prototyping, and agility in product design are the generic expectations.",Flexibility,Flexible
+"The project is aligned with the Digital Bangladesh goal, focusing on iterative development and scalability for future updates.",Flexibility,Flexible
+"The application allows customization for employee and family healthcare management within organizations, suggesting adaptable features.",Flexibility,Flexible
+The platform allows customization of employee profiles and integration of features like leave approval and recharge management.,Flexibility,Flexible
+"The platform includes scalability for small to large events, integrations with third-party services, and adaptable ticketing options.",Flexibility,Flexible
+"Supports various learning modes (self-paced, instructor-led, hybrid) and integrations with third-party tools, indicating adaptability.",Flexibility,Flexible
+"The system integrates multiple modules (budgeting, accounting, procurement, reporting) and supports seamless integration with payroll and HR systems.",Flexibility,Flexible
+"The system supports features for different user roles (admin, teacher, student, parent) and includes modules for fee management, attendance, and academic tracking.",Flexibility,Flexible
+"The system supports integration with diagnostic laboratories, secure data sharing, and customizable dashboards for patient care and hospital performance.",Flexibility,Flexible
+"Integrates traffic management, public transportation, and commuter communication with APIs for third-party applications.",Flexibility,Flexible
+"Users can create or update profiles with various job-specific details and provide feedback, reflecting adaptable user engagement features.",Flexibility,Flexible
+"The system supports integration with multiple AI models and APIs, modular memory storage for various data formats, and customizable admin panels.",Flexibility,Flexible
+The project scope includes the development of GIS-Analytic Interface application with modularity to integrate future components,Flexibility,Flexible
+The system should allow modular expansion for future features using the current technology framework. Dashboards and reports can be customized based on department-specific requirements.,Flexibility,Flexible
+The system should allow modular expansion for future features using the current technology framework.,Flexibility,Flexible
+"The system should be web-based, platform-independent, and compatible with major browsers like Chrome, Firefox, and Opera, ensuring modular expansion for future needs",Flexibility,Flexible
+"The system should adopt a Service-Oriented Architecture (SOA) to ensure flexibility and scalability, with modular expansion options for future development.",Flexibility,Flexible
+The proposed system should allow modular expansion and seamless integration with other government systems,Flexibility,Flexible
+"Payment system should be accessible from mobile and must include transaction log and audit trails. Considering the network infrastructure challenges in Bangladesh, the solution must support low bandwidth conditions. System should be highly scalable to accommodate current and future requirements within the scope mentioned in the ToR. ",Flexibility,Flexible
+The project requires a scalable GIS system that allows integration with other governmental databases.,Flexibility,Flexible
+The system must allow for future scalability to accommodate additional courts and jurisdictions.,Flexibility,Flexible
+"System should be scalable and capable of delivering on user requests. The Consultant must ensure maximum concurrent connection and load
+balancing capabilities, with hardware/software resources as deemed necessary,
+for smooth operation of these activity",Flexibility,Flexible
+"The system should be designed with flexibility in mind to accommodate future upgrades and the integration of new features, such as adding new payment methods or integrating with additional customs departments in the future.",Flexibility,Flexible
+"The service will be an interoperable service with maintaining land data bank, Vis a Vis, building capacity of land management practitioners with administration, management of land, revenue, and court.",Flexibility,Flexible
+The proposed system must support integration with government systems such as NID verification and payment gateways while remaining adaptable to future needs.,Flexibility,Flexible
+"The ERP solution will be designed with flexibility to integrate with existing and planned IT solutions, addressing scalability and user needs.",Flexibility,Flexible
+The system redesign includes ensuring flexibility for integration with third-party services and adaptation to user needs.,Flexibility,Flexible
+The system must be designed to integrate with existing infrastructure while remaining adaptable for future needs.,Flexibility,Flexible
+"Study and Analysis of the existing mobile court management system software along with its SRS 
+and BRS. Modification of the existing SRS of Mobile court basing on the further requirements 
+evolved.
+",Flexibility,Flexible
+"Provide technical solution service to create, manage and update sites to address user feedback and 
+change requests; Adding new sites or Modules to address request to add closely related 
+information service integrated to the portals. Upgrade/Change CSS, Template and other technology features in compliance with mobile 
+responsiveness and other associated dependent requirements like incorporation of e Commerce/Publication/Commercial Platform oriented features.",Flexibility,Flexible
+"The Consultant will directly report to the project director. All reports will be submitted to Project Director, including weekly progress updates and operational status reports.",Documentation,Full
+"Prepare final operational and technical documentation, including requirements documentation, technical documentation, source code, data flow diagrams, and both hard copies and soft copies.",Documentation,Full
+"Relevant product documentation, including a detailed software requirement analysis, technical specifications, and software documentation, is required as deliverables.",Documentation,Full
+The vendor must provide comprehensive training to officials of the Procuring Agency in the operation of the app and all reporting options.,Documentation,Full
+"Develop an easy-to-understand system manual, installation manual, and user manual. Deliver a final version of the system along with all required documentation, including source code, user manual, and technical documentation.",Documentation,Full
+"Prepare all the required documents: user manual, technical documents, and reports. Provide detailed information on handover, including training materials.",Documentation,Full
+"Deliverables include a user manual, technical documentation, and complete source code. Knowledge transfer through training and final system documentation is also required.",Documentation,Full
+"Delivered final version of the software along with properly documented source code, database & other required credentials, user manual (text and video) containing screenshots, and all technical documentation.",Documentation,Full
+"Deliverables include Business Requirement Specification (BRS), System Requirement Specification (SRS), Functional Requirement Specification (FRS), system design document, and complete source code.",Documentation,Full
+"Deliverables include technical documentation, user manuals, data migration documents, and recorded tutorials for users.",Documentation,Full
+"The deliverables include technical proposals, project reports, and documentation for all major components of the Muktopaath platform.",Documentation,Full
+"Deliverables include detailed Software Requirements Specification (SRS), system design documents, and user manuals for organizers and administrators.",Documentation,Full
+"Deliverables include Software Requirements Specification (SRS), system design documents, user manuals, and training materials.",Documentation,Full
+"Deliverables include Software Requirements Specification (SRS), system design documents, training materials, and user manuals.",Documentation,Full
+"Deliverables include a detailed Software Requirements Specification (SRS), technical design documents, and user training materials.",Documentation,Full
+"Deliverables include comprehensive documentation, including technical design, workflows, and user guidelines.",Documentation,Full
+Deliverables include training materials and comprehensive technical documentation for all modules.,Documentation,Full
+"The development plan specifies detailed technical guides, including architecture, database schema, and API design, ensuring comprehensive documentation.",Documentation,Full
+"The supplier shall attach technical specifications, user manuals, and financial offers separately for submission.",Documentation,Full
+"Training manuals must include high-quality technical and user documentation, including audiovisual methods implied in the training",Documentation,Full
+"Vendor must deliver technical documents, including SRS, Data Dictionary, Use Cases, and Training Manuals, as part of the deliverables. Updates to training manuals must reflect any system changes during the support phase.",Documentation,Full
+"Vendor must deliver technical documents, including SRS, Data Dictionary, and Use Cases, and provide regular updates to training manuals.",Documentation,Full
+"Based on approved SRS and SDD vendor will prepare a
+comprehensive development plan for the e-Service Application which should include
+a schedule consisting development item wise start date, test date, review date,
+completion date etc. At the development stage, vendor must follow the standard code
+convention, code level documentations, header of each file, algorithms, interfaces,
+code compression and APIs should be supplied with proper description and
+documentations.",Documentation,Full
+"The consulting firm must deliver high-quality documentation, including the SRS, user manuals, and architectural design documents, alongside training materials.",Documentation,Full
+"The vendor must deliver comprehensive documentation, including user manuals, technical guides, and training materials",Documentation,Full
+Service providers can generate easily and efficiently any type of necessary reports instantly using this system,Documentation,Full
+Consultants shall submit quarterly reports outlining challenges faced and measures taken to address them.,Documentation,Full
+"Comprehensive documentation, including manuals, training guides, and geospatial analysis protocols, must be delivered.",Documentation,Full
+"Detailed project documentation must include user manuals, technical guides, and a record of all system changes.",Documentation,Full
+"The vendor must provide full documentation including system design documents (SDD), user manuals, and technical support guides. This will include detailed API documentation, installation manuals, and integration guidelines to ensure smooth deployment and system interoperability.",Documentation,Full
+"The Consultant will directly report to the project director. All reports will be submitted to Project Director, including weekly progress updates and operational status reports.",Documentation,Full
+"Prepare comprehensive documents such as Software Requirement Specifications (SRS), design documents, and user manuals to support system deployment.",Documentation,Full
+"The consultant will prepare technical documents such as Functional Requirement Specifications (FRS), workflow designs, and RFPs.",Documentation,Full
+"Prepare comprehensive technical documents including SRS, Use Cases, Training Manuals, and Test Cases to support the system.",Documentation,Full
+"The Consultant will directly report to the project director. All reports will be submitted to Project Director, including weekly progress updates and operational status reports.",Documentation,Full
+"Comprehensive documentation, including system design documents, user manuals, and training guides, is essential for implementation.",Documentation,Full
+"Implementation of this project needs a number of Goods, Intellectual services, and Physical services procurement. The project includes assessment of hardware sizing and all related software and hardware requirements.",Cost,High
+"The firm shall verify and validate that all the requirements are met in terms of functionality, software security, and performance while delivering the system to the procuring entity by the designated consulting firms. Regular maintenance of the system, including troubleshooting and updates, is essential.",Maintenance,High
+"The Consultant Firm will demonstrate experience of at least Seven (07) years in similar assignments of managing procurement, Designing, Developing, Installation, Integration of IT system.",Expertise,High
+"Managing land is a multi-stakeholder issue involving multiple ministries and agencies, requiring coordination and integration of various components like Land Acquisition Management, Digital Land Record Management, and Land Administration Management System (LAMS).",Complex Projects,High
+"Vendor will undertake responsibility for input validation controls, authorization/authentication, and other security controls. The app will be updated based on feedback received from the public domain via different social channels for six months. Vendor must also bear all fees and costs of uploading the app to Google Play Store and Apple Store.",Cost,High
+"Vendor must provide all required technical support and maintenance till the end of the project timeline (June 2022). Any bugs or errors must be resolved immediately, ensuring the app runs smoothly.",Maintenance,High
+"The firm must have a proven track record of at least 5 years in mobile application and web-based IT solution development, with competent full-time manpower in areas like system analysis, mobile app development, security, database management, and UX design.",Expertise,High
+The objective is to develop a mobile application (for Android and iOS platforms) for Uttoron trainees to strengthen their learning on essential soft skills and address workspace-related challenges.,Requirements,Incomplete
+"Payment milestones against deliverables: A detailed software requirement analysis and technical specifications (20% of the payment), three prototypes (20%), production-ready system (50%), and software documentation (10%).",Cost,High
+Develop and update necessary software documentation to facilitate system maintenance and upgrades.,Maintenance,High
+"At least 5 years of experience in software development, with 2 years in architecting cloud-based solutions, preferably with Microsoft Azure.",Expertise,High
+"Develop a human rights incident reporting, monitoring, and verification system to process a greater volume of information for human rights reporting.",Requirements,Incomplete
+Leverage existing OHCHR information systems and develop prototypes for web intake forms and other system components to accelerate learning and facilitate agreement on information exchange.,Complex Projects,High
+"The cost of all licenses during the warranty period will be borne by the vendor including licenses required by the proposed application software during the development, hosting and production (including but not limited to the cost of IDE, databases, server OS, virtualization, orchestration, storage, network equipment and other software/hardware/platform/technology).",Cost,High
+"The vendor must provide free support for a period of 5 years from the time of acceptance of the software by the Procuring Agency (Warranty support). During the warranty period, the vendor will be responsible for licensing, making necessary changes as well as fixing the bugs, if any.",Maintenance,High
+Minimum Mandatory Eligibility Criteria: Bidder must be a Bhutanese IT firm with a minimum 3 years of active existence in software development. Minimum 2 Mobile Apps developed by the firm.,Expertise,High
+"The consultant firm will formally propose the cost for including work along with a separate detailed financial proposal (Including tax, VAT, and others as per rule). The financial proposal will include all relevant expenditures related to the consulting services.",Cost,High
+Provide support and maintenance service of the platform and mobile app including the purchased Domain and Hosting (minimum 1 TB) up to the project completion period (December 2023). Support & Maintenance will cover fixing all bugs and system errors.,Maintenance,High
+"Firm must demonstrate its management capacity and have at least 5 years' experience in the industry, with specific expertise in digital training platforms and related technologies.",Expertise,High
+"Develop and deploy an online training platform with interactive training content, including dynamic and customizable test or assessment systems, and a mobile application (Android).",Requirements,Incomplete
+"The scope includes developing a robust multimedia content management system, live training sessions, and 50 different training modules covering various aspects such as environmental and financial risk management, good agricultural practices, and marketing.",Complex Projects,High
+"The consultant firm must provide all technical and IT-related expertise, deploy mobile applications to the Play Store and App Store, and conduct workshops for knowledge transfer.",Cost,High
+Provide a minimum 1-year support and maintenance service for the system from the date of contract signing.,Maintenance,High
+"A team of IT professionals with strong theoretical and practical knowledge of IT, familiar with healthcare/medical-related web and mobile application development.",Expertise,High
+The overall objective of this task is to design and develop STP-EHS web and mobile applications for health professionals to use during emergency services to provide quality service.,Requirements,Incomplete
+"The system will include web and mobile applications with interactive features, REST API support, dynamic content management, and modular scalability to handle future changes and a large user base.",Complex Projects,High
+"Development requires a detailed project plan, development tools, database requirements, and a risk management strategy, highlighting comprehensive and resource-intensive work.",Cost,High
+"Team will ensure system testing at module integration and load levels. All necessary security tests at the application level architecture need to be conducted by the team. The project includes post-delivery maintenance tasks, including debugging and updates.",Maintenance,High
+"Team must demonstrate its management capacity and experience in similar assignments, with a detailed list of personnel expertise and qualifications.",Expertise,High
+"The project involves developing modules for dynamic form creation, SLA-based ticketing, multi-level inspection systems, and advanced user and role management features.",Complex Projects,High
+"The financial proposal by the form should contain itemized cost, at least for the following broader deliverables: System analysis and requirements gathering cost; software development and testing cost; orientation training for User (IT team, different level wise officers & staffs and Job placement team); Data optimization & migration cost; and post-handover troubleshooting support & maintenance cost.",Cost,High
+"Support & Maintenance: After final deployment and going live with the acceptance of the implementing organization, the support and maintenance service will start for extra 1 (one) year. Small development will provide within 6 hours and large development will provide within 2 days.",Maintenance,High
+"Vendor must have experience in design, development, and implementation of at least 5 large-scale software projects, including one with AI/ML technology and one with bibliographic metadata standardization.",Expertise,High
+"The objective is to digitize all land-related services and activities, transforming documents into error-free digitized forms with AI/ML-based advisory features.",Requirements,Incomplete
+"The project involves advanced features like AI/ML-based advisors, blockchain authentication, multilingual support, and metadata-driven document management, indicating high complexity.",Complex Projects,High
+"The solution includes high scalability, load management functionality, and compliance with industry best practices, requiring advanced architecture and significant investment.",Cost,High
+Provide maintenance and improvement support for 3 years according to the agreed Service Level Agreement (SLA).,Maintenance,High
+"The staffing requirements include positions such as Project Manager, Solution Architect, and Senior Software Engineer, indicating the need for specialized expertise.",Expertise,High
+"The project includes biometric verification, integration with multiple external systems (NID, SIM databases), and advanced features like OCR and API-based operations.",Complex Projects,High
+"The platform must include features like plagiarism detection, integration with multiple systems, mobile and web app development, and GDPR compliance, requiring significant investment.",Cost,High
+"Provide 2 years support & maintenance service of the GREENLAND PROJECT e-learning platform from the date of contract signing, covering bug fixing and system errors.",Maintenance,High
+"At least 7 years of professional experience in developing and implementing e-learning systems, with proven expertise in education, training, and EU projects.",Expertise,High
+"The platform must support advanced features such as plagiarism detection, multi-format content compatibility, and tailored reporting, indicating significant complexity.",Complex Projects,High
+"The firm must demonstrate its financial strength, including a turnover of at least BDT 2 crore and working capital/liquid assets of not less than BDT 50 lakhs, indicating high investment requirements.",Cost,High
+"The contract includes 24 months of development, implementation, and maintenance, ensuring comprehensive post-deployment support.",Maintenance,High
+"The firm must have 5 years' experience in software development and expertise in e-learning platforms, with evidence of managing at least two web-based applications for government or large-scale organizations.",Expertise,High
+"The Muktopaath platform aims to provide an e-learning platform for skill development, digital literacy, and training content management for large-scale users.",Requirements,Incomplete
+"The platform will host multiple e-learning modules, interactive features, and integrations with external systems, indicating a high level of complexity.",Complex Projects,High
+"The budget will be based on the development, deployment, and post-deployment support requirements, involving a robust platform with integrations and analytics.",Cost,High
+"Six months of post-deployment support, including bug fixes and system updates, with a helpdesk for resolving technical issues.",Maintenance,High
+"The project requires a development team of software engineers, UI/UX designers, and quality assurance specialists with a focus on security and compliance.",Expertise,High
+"The platform includes advanced features like QR-coded tickets, multiple payment integrations, real-time analytics, and scalability for high-traffic events.",Complex Projects,High
+"The budget includes development, deployment, and post-deployment support, covering diverse integrations and scalability for 10,000 concurrent users.",Cost,High
+"Six months of post-deployment support, including bug fixes, feature enhancements, and helpdesk services.",Maintenance,High
+"Development involves software engineers, UI/UX designers, and quality assurance specialists for a robust LMS platform.",Expertise,High
+"The system includes multimedia content support, integrations with video conferencing tools, APIs, and mobile apps, reflecting significant complexity.",Complex Projects,High
+"The budget includes development, deployment, training, and one year of post-deployment support for an integrated financial management platform.",Cost,High
+"The project includes one year of post-deployment support, covering bug fixes, system updates, and user training sessions.",Maintenance,High
+"Development requires expertise in financial systems, integration with regulatory requirements, and adherence to international security standards (ISO 27001).",Expertise,High
+"The system includes advanced functionalities like real-time financial reporting, role-based access control, and API integrations, indicating significant complexity.",Complex Projects,High
+"The budget includes development, deployment, and training costs, with additional costs for post-deployment support and annual maintenance.",Cost,High
+"Provide six months of post-deployment support, including bug fixes, updates, and additional training sessions if required.",Maintenance,High
+"The project requires expertise in Python with Django, Angular for dynamic user interfaces, and database management with PostgreSQL.",Expertise,High
+"The system integrates multiple functionalities, including attendance, fee management, academic tracking, and parent-teacher communication.",Complex Projects,High
+"The budget includes costs for software development, hardware infrastructure, training, and post-deployment support.",Cost,High
+"Six months of post-deployment support, including regular updates and bug fixes.",Maintenance,High
+"The project requires expertise in healthcare regulations such as HIPAA and GDPR, and secure software development.",Expertise,High
+"The system includes modules for patient management, EHR, billing, and real-time analytics, highlighting significant complexity.",Complex Projects,High
+"The proposed budget includes development, hardware procurement, deployment, and ongoing maintenance.",Cost,High
+Post-deployment support and system maintenance for one year.,Maintenance,High
+"Requires IoT specialists, software engineers, and QA experts for system integration and analytics.",Expertise,High
+"The system incorporates IoT-enabled sensors, real-time analytics, and multi-platform integration for urban transportation.",Complex Projects,High
+"The application requires integration with various AI models, modular design, support for multiple data formats, and dual admin panels, indicating significant resource allocation.",Cost,High
+"Ongoing maintenance includes updating AI models, managing API connections, and ensuring compatibility with various data formats.",Maintenance,High
+"The project requires expertise in AI integrations, backend and frontend development, database design, and secure data management.",Expertise,High
+"The system requires integration with AGI language models, multi-format data handling, and real-time API operations, highlighting its complexity.",Complex Projects,High
+The vendor must have prior experience in delivering at least three similar projects for government organizations in the past three years.,Expertise,High
+The supplier must provide a warranty for fault rectification or replacement during the specified warranty period.,Maintenance,High
+The vendor must conduct an extensive load testing task taking above factors into consideration and submit a load testing result,Expertise,High
+"The application/system should have complete embedded security measures against data hacking/tampering, data access, and data in transit",Maintenance,High
+"The cost includes hardware procurement, software licensing, and personnel training, estimated at a significant level",Cost,High
+"The vendor must ensure auto-backup and database archiving systems to address system recovery needs in case of disaster. Post-development support includes continuous health checks, tuning codes, and deploying support engineers onsite.",Maintenance,High
+"The cost includes licensing, maintenance, and training, alongside hardware procurement for deployment. Payment milestones are tied to project phases, including 40% on the delivery of the final version.",Cost,High
+"The vendor must conduct maintenance for field devices like CCTV, VMS, and VDS, and ensure recovery in case of failure.",Maintenance,High
+"The project involves integration with multiple systems, including ITS field devices, and ensuring compliance with security standards.",Complex Projects,High
+"The cost includes hardware procurement, software licensing, maintenance, and personnel training.",Cost,High
+"The vendor must follow standard coding styles to produce high-quality code for further use of the code in terms of reusability, refactoring, task automation, language factors, etc.",Expertise,High
+"Maintenance includes tasks such as fixing problems in the application within two days, addressing security issues within 24 hours, and ensuring periodic backups for disaster recovery. Vendor must provide Training of Trainers (ToT) for 200 trainers, training for 8000 users, and administration training for 10 individuals, accompanied by comprehensive training manuals and resources",Maintenance,High
+"The cost includes hardware procurement, software licensing, and training for staff, alongside long-term maintenance of the system",Cost,High
+The vendor is expected to integrate the e-service system with existing data collection and billing software to enhance operational efficiency,Complex Projects,High
+The consulting firm should have a track record of at least 7 years in GIS-based web application development and experience in managing modern data centers.,Expertise,High
+"The project involves integrating crowdfunding models (grants, debt, and equity) into a web platform with features like payment gateway integration and user role management.",Complex Projects,High
+"The cost includes expenses for system development, server hosting, training, and maintenance support until the end of the RMTP project.",Cost,High
+The vendor must conduct an extensive load testing task taking above factors into consideration and submit load testing results just after deployment,Complex Projects,High
+"The vendor must provide maintenance and support services for a minimum of three years, including incident and problem management",Maintenance,High
+"The team must include certified security experts, software engineers, and database administrators",Expertise,High
+"The cost of the system includes server procurement, licensing, and training for all relevant stakeholders",Cost,High
+The system processing shall be scalable to support the volume estimates for a period of 10 years at a 20% annual growth rate,Maintenance,High
+Vendor must conduct an extensive load testing task taking above factors into consideration and submit load testing results,Expertise,High
+"The selected vendor will require to provide maintenance and support service for this developed, deployed, piloted eGovernment/digital service application",Maintenance,High
+The consultant team must include GIS experts with a minimum of 10 years of experience in geospatial data management.,Expertise,High
+"Prepare comprehensive documentation including SRS, SDD, DFD, and Test Cases for system clarity and maintainability.",Documentation,Full
+Team must include experts with a minimum of 10 years of experience in geospatial data management and IT systems.,Expertise,High
+Design and develop a multi-tier application model that integrates with secured cloud infrastructure for data management.,Complex Projects,High
+Development of multi-tiered systems with advanced features and secure infrastructure.,Complex Projects,High
+"The project team must comprise IT experts with extensive experience in database management and system integration. having a degree from a reputed university.
+regular reporting tothe client. ii) Minimum 10 years of progressive experience. at least 5 yearsâ€™ experience in technical aspects of the project.",Expertise,High
+The system design involves a multi-layer architecture with secure data transmission protocols.,Complex Projects,High
+"Ongoing support and maintenance services will be provided for two years post-implementation. The firm is requested to submit propose their smooth, efficient and effective Post Development
+plan in this technical proposal which will include following:
+Continuous health check of Database, tuning database, tuning codes & queries and
+mitigating the issues.
+Recording, managing reporting issues and user level application related technical
+problems received through the method prescribed by a21, develop and deploy necessary
+solutions.
+Developing, recording and reporting change documents, source code management and
+version management.
+",Maintenance,High
+The implementation plan includes pilot testing in selected courts followed by full-scale rollout.,Implementation,Complex
+"The vendor must propose a detailed maintenance plan that includes regular software updates, security patches, and 24/7 system monitoring to ensure continuous and reliable operation of the e-Port system.",Maintenance,High
+"The system will require complex integration with multiple external systems such as the customs department's ASY CUDA system, payment gateways, and local weigh scale machines, all while ensuring secure and compliant data transfer between systems.",Complex Projects,High
+"The vendor must demonstrate expertise in developing large-scale government applications, with at least 5 years of experience in integrating e-services with national systems, ensuring the security and privacy of user data, and providing 24/7 support and maintenance.",Expertise,High
+"Software development is an activity that uses a variety of technological advancements 
+and requires high levels of knowledge because every software development project contains 
+elements of uncertainty. This is known as project risk. The success of a software development 
+project depends quite heavily on the amount of risk that corresponds to each project activity. 
+As a project manager, its not enough to merely be aware of the risks. To achieve a successful 
+outcome, they must identify, assess, prioritize, and manage all of the major risks. A standard 
+risk management process includes the following steps:
+1. Identify risks and their triggers
+2. Classify and prioritize all risks
+3. Craft a plan that links each risk to a mitigation
+4. Monitor for risk triggered during the project
+5. Implement the mitigating action if any risk materializes
+6. Communicate risk status throughout project
+The vendor should submit a Risk Management Plan (Ref.Doc.-22) addressing all 
+types of risks including above mentioned steps following standard risk management principles 
+and their mitigation plan",Risk Management,High
+"The firm shall verify and validate that all the requirements are met in terms of functionality, software security, and performance while delivering the system to the procuring entity by the designated consulting firms.",Maintenance,High
+"Regular maintenance of the system, including troubleshooting and updates, is essential.",Maintenance,High
+"The Consultant Firm will demonstrate experience of at least Seven (07) years in similar assignments of managing procurement, Designing, Developing, Installation, Integration of IT system.",Expertise,High
+"Challenges include lack of transparency, manual processes, and inefficiencies in zakat fund collection and distribution.",Risk Management,High
+"The implementation budget includes costs for infrastructure, technical expertise, and third-party integrations, highlighting significant expenditure.",Cost,High
+"Expertise is required in microservices architecture, cloud hosting, and secure payment integration for successful project execution.",Expertise,High
+"The complexity lies in integrating various functionalities such as NID verification, payment processing, and secure data management.",Complex Projects,High
+"Maintenance includes system health checks, bug fixes, and performance optimization to ensure smooth operation post-deployment.",Maintenance,High
+"The project addresses the integration of financial, asset, and inventory management systems, presenting potential risks due to complexity.",Risk Management,High
+"The ERP implementation project involves substantial costs due to advanced infrastructure, licensing, and professional expertise required.",Cost,High
+"The project demands expertise in ERP module design, business intelligence integration, and IT infrastructure planning.",Expertise,High
+"The project is complex due to its scope, requiring integration of legacy systems and coordination across departments and stakeholders.",Complex Projects,High
+"Regular maintenance, including database tuning and troubleshooting, will be necessary to ensure the system's operational efficiency.",Maintenance,High
+The project involves addressing potential risks in revamping the Eksheba system for efficient monitoring and operational transparency.,Risk Management,High
+The project involves substantial costs due to its scope and the need for advanced infrastructure and technology integration.,Cost,High
+"The project demands expertise in system integration, database design, and advanced software development for a robust solution.",Expertise,High
+"The project is complex due to the scope of integration, data management, and the need to align with multiple stakeholders.",Complex Projects,High
+Regular maintenance and troubleshooting are critical for ensuring the system's reliability and sustainability.,Maintenance,High
+"Implementation of this project needs a number of Goods, Intellectual services, and Physical services procurement. The project includes assessment of hardware sizing and all related software and hardware requirements.",Cost,High
+"The firm shall verify and validate that all the requirements are met in terms of functionality, software security, and performance while delivering the system to the procuring entity by the designated consulting firms. Regular maintenance of the system, including troubleshooting and updates, is essential.",Maintenance,High
+"The Consultant Firm will demonstrate experience of at least Seven (07) years in similar assignments of managing procurement, Designing, Developing, Installation, Integration of IT system.",Expertise,High
+Integration with customs and payment gateways introduces challenges due to technical complexities and risk of delays.,Risk Management,High
+"The project demands substantial investment for advanced infrastructure, software licensing, and technical expertise.",Cost,High
+"The project requires expertise in systems integration, cloud-based architecture, and secure payment solutions.",Expertise,High
+"The complexity lies in managing data integration, ensuring system scalability, and compliance with trade regulations.",Complex Projects,High
+"Contracted vendor will ensure post development Maintenance, Support, change management and 
+version control services that will include the following:
+Continuous health check of Database, tuning database, tuning codes & queries and mitigating the 
+issues.
+Recording, managing reporting issues and user level application related technical problems 
+received through the method prescribed by a2i, develop and deploy necessary solutions.
+Updating training manual adjusting the changes in the system. 
+Fixing all bugs in the system irrespective of its nature and complexities.
+Provide active operational support to update system in compliance with Digital Signature 
+incorporation and respective changes by the government. 
+Developing, recording and reporting change documents, source code management and version 
+management",Maintenance,High
+"Solutions of Court Information and Service Framework (CISF) with detailed documentation (including data dictionary) as discussed in the scope. BRS, Data Dictionary, SRS, DFD, Process Map and necessary design documents. Developed APIs with proper documentation. Complete Solution of Executive Magistrate Court according to SRS. Preparation of Training guidelines/user instructions for training Enhanced Software solution of Mobile Court Management System.",Documentation,Full
+"Minimum 4 years experience in ICT business in Bangladesh. Must have 3 years practical experience of developing web-based enterprise solution. Experience of developing Software Solution for Government of Bangladesh or any of its agencies 
+will be an added advantage. Solution Architect should have at least BSc in Computer Eng./Science and 5 years of experience in System Design and Architecture. Needs to have full time Database Specialist capable of designing robust shared database with at least 5 years practical experience in Database Design and Development in MySQL. Senior Software Engineer should have at least Bachelor Degree in Computer 
+Eng./Science,/Masters with related diploma and 5 years of experience in PHP. Software Engineer should have at least Bachelor Degree in Computer Eng./Science,/Masters with 
+related diploma and 3 years of experience in PHP.
+",Expertise,High
+Maintenances support. Source code and design document of the products developed. ,Maintenance,High
+"The project involves maintaining and enhancing the national portal, which requires technical expertise in web development, system integration, and ensuring the system's reliability and scalabilityâ€‹. The involvement of various experts, such as system development experts, data center experts, and the a2i team, further highlights the need for high expertise in managing and supporting the technical infrastructure and system updates.",Expertise,High
+"The portal needs ongoing maintenance, including updates, bug fixes, and system performance improvements, which requires a dedicated team and resources.  The involvement of highly specialized teams like system development experts, data center experts, and collaboration with the a2i team suggests that skilled professionals are necessary. Given the integration with existing systems and the need for regular upgrades, the cost of maintaining and improving the technical infrastructure (servers, databases, security, etc.)",Cost,High
+"The system must integrate a number of features, including gamification, mobile applications, security protocols, and an interactive apprenticeship management system",Complex Projects,High
+"The project requires highly specialized expertise in system integration, cloud computing, and data security. The vendor must demonstrate at least 10 years of experience in developing enterprise-scale applications and integrating them with legacy systems.",Expertise,High
+"The project involves complex functionalities, including AI-based features, machine learning algorithms, and data analytics, requiring advanced technical knowledge and expertise in these domains. The team must have prior experience working on similar large-scale systems.",Expertise,High
+"This project requires a team with deep knowledge of advanced programming languages (e.g., Python, Java), extensive experience in developing scalable applications, and proven expertise in high-level system architecture design, data management, and security protocols.",Expertise,High
+"The vendor must have a demonstrated track record in providing consulting services for large, multi-tiered applications. The project will require deep expertise in customizing software, system design, and providing ongoing technical support for complex systems.",Expertise,High
+Vendor should provide comprehensive user training to ensure users can operate the system without major dependencies,User Involvement,Highly Required
+Vendor will provide ToT (Training of Trainers) for a minimum of 5 users and operational orientation for 20 end-users nominated by FSCD. On-demand facilitation of system updates to client staff via mini-training sessions during quarterly updates.,User Involvement,Highly Required
+Providing training for capacity enhancement of RHD officials on ICT Support Services regarding the output and report produced by the consultant team.,User Involvement,Highly Required
+The consulting firm will provide training for at least 20 PKSF personnel and partner organization staff to enhance operational capacity.,User Involvement,Highly Required
+"The vendor must provide training modules for end-users and administrators, covering system functionalities, security protocols, and troubleshooting techniques",User Involvement,Highly Required
+Vendor must develop this e-Service application ensuring access for the citizen with disabilities in different standard accessible formats,User Involvement,Highly Required
+Incorporate feedback from users for API enhancement to improve system usability and services provided.,User Involvement,Highly Required
+Incorporate user feedback for enhancing user experience and API usability across platforms.,User Involvement,Highly Required
+"User feedback will be incorporated to refine system functionalities and improve user experience. Ensure Security testing of the system at a regular interval not more than six months by a third-party organization.
+",User Involvement,Highly Required
+"End user engagement is very important for e-government implementation especially for 
+the citizen centric digital service delivery. Vendor should measure involvement of end users 
+during development and the constant incorporation of feedback to provide high-quality end user experience satisfying usability test. Based on different types end-user group, vendor may 
+require to consider the following at the time of preparing End-User Engagement Plan which is required to be submitted with the technical proposal.",User Involvement,Highly Required
+"The project requires substantial user involvement during requirements gathering, UAT, and training phases to ensure successful implementation.",User Involvement,Highly Required
+The project requires active involvement of users across multiple departments to ensure successful implementation and alignment with objectives.,User Involvement,Highly Required
+The system redesign process requires significant user involvement to ensure its success and operational relevance.,User Involvement,Highly Required
+Stakeholder engagement is crucial during requirement gathering and user acceptance testing phases to ensure relevance.,User Involvement,Highly Required
+The system should allow user registration and data management. Additional features will be determined during the development phase.,Requirements,Incomplete
+"The project aims to improve the overall efficiency of the portal, but detailed deliverables will be finalized after stakeholder consultations.",Requirements,Incomplete
+The platform should enhance user experience and provide better accessibility. The exact features to achieve this goal will be discussed later.,Requirements,Incomplete
+"The software should integrate with other platforms, but the exact integration points and APIs will be decided during the implementation stage.",Requirements,Incomplete
+"The system should perform efficiently under high loads, but the exact performance metrics will be determined after testing the prototype.",Requirements,Incomplete
+"The platform must support scalability, but the expected number of users and traffic projections are not available at this stage.",Requirements,Incomplete
+The portal should ensure data security and user privacy. Specific compliance standards will be decided later.,Requirements,Incomplete
+The system should provide a dashboard for user data visualization. The layout and data types will be finalized in subsequent discussions.,Requirements,Incomplete
+"The system will support basic operations initially, with advanced functionalities to be added in future phases as per user demand.",Requirements,Incomplete
+"The system must allow report generation. Details of the reports, including data sources and formats, will be defined during the development process.",Requirements,Incomplete
+"A computerized application has been designed, developed, and implemented for automation of Revenue and Accounts Departments of DSCC.",Requirements,Incomplete
+"Provide support to the system, Establish a Standard SLA for operational support",Requirements,Incomplete
+"The system should be capable of managing various administrative functions, but further specifications will be defined during the design phase.",Requirements,Incomplete
+"The portal must have user management features, though detailed specifications will be finalized later.",Requirements,Incomplete
+"Additional features may be added as per evolving needs and requirements, to be determined by the project team at a later stage.",Requirements,Incomplete
+"The project will develop a user interface; however, the exact requirements of the interface will be finalized after discussions with stakeholders.",Requirements,Incomplete
+The system must ensure integration with existing platforms; technical specifications for the integration will be developed later,Requirements,Incomplete
+The portal should function efficiently; performance criteria will be set during the development phase based on testing results,Requirements,Incomplete
+"Some of the requirements are yet to be fully defined, and additional details will be needed before final implementation.",Requirements,Incomplete
+Key elements of the systems requirements are still under review and need to be clarified.,Requirements,Incomplete
+"The current requirements do not cover all scenarios, leaving gaps that will need to be addressed.",Requirements,Incomplete
+"The initial requirements are insufficient, leaving gaps that need to be addressed later in the project.",Requirements,Incomplete
+"Many aspects of the system requirements are yet to be clarified, requiring further input from stakeholders.",Requirements,Incomplete
+"The expected total duration of the assignment is estimated to be about 2 (Two) years starting from 01 January 2022 or from signing the contract. Time may be extended in order to supervise, monitor and evaluate the systems after development.",Delivery Time,Late
+"Total duration of the contract is approximately 3 years, renewable further upon satisfactory performance and Clients need.",Delivery Time,Late
+"The duration of the assignment will be in two phases. The first phase is 6 months for development and submission of the web application and reports. The second phase is for maintenance until December 31, 2025. Total duration is almost 3 years.",Delivery Time,Late
+"The implementation phase is scheduled to last 24 months, with major deliverables at quarterly intervals.",Delivery Time,Late
+The expected total duration of the assignment is estimated to be about 2 (Two) years starting from 01 January 2022 or from signing the contract.,Delivery Time,Late
+"The project spans 24 months, with early deliverables for feasibility studies, documentation, and vendor selection in the initial phases.",Delivery Time,Late
+"Total Duration of the assignment is 24 Months. First 8 months for Software Development,
+Testing and piloting. Remaining 16 months for other services as mentioned in the ToR. Selected Vendor will have to sign separate SLA and Non-discloser agreement as part of the core 
+agreement for this 24 months",Delivery Time,Late
+"Implementation strategy would be divided into four phases, quarter one, quarter two, quarter three and quarter four. Each quarter would be three months long. Total Duration of the assignment is 22 Months Six Months is core development period and Vendor needs to release Online version with functional attributes and functional & usable prototype. One Month for Model implementation as Pilot & POC. Three Months is for development period again for Limited and Offline Version. Twelve Months for Post Development Support Service and Change Management. Master Agreement will be for 10 Months and the Maintenance agreement will be for 12 months. Total contract value will be negotiated under the master agreement that will reflect the accumulated cost of product as budgeted and as negotiated there after during final negotiation meeting with the selected vendor. ",Delivery Time,Late
+"The total duration of the assignment is estimated to be 18 months, with different deliverables expected at monthly intervals.",Delivery Time,Late
+"The system will take longer than expected to be fully implemented, with delays affecting the timeline.",Delivery Time,Late
+Delivery will be delayed due to unforeseen complexities and challenges during the development phase.,Delivery Time,Late
+The projects timeline will extend beyond the expected completion date due to various operational factors.,Delivery Time,Late
+"The system is not expected to meet the original deadline, with adjustments to the delivery schedule.",Delivery Time,Late
+Delays in development have pushed the expected completion date further back than initially planned.,Delivery Time,Late
+"The project budget is strictly capped, and no additional funds will be allocated for unplanned features or changes.",Flexibility,Less Flexible
+"The vendor is required to follow the provided development framework, and no deviations from the methodology will be accepted.",Flexibility,Less Flexible
+Any requests for new features or updates will only be considered in subsequent project phases and not in the current phase.,Flexibility,Less Flexible
+"The vendor must strictly adhere to the predefined SLAs, with no changes allowed during the maintenance phase.",Flexibility,Less Flexible
+"The implementation must be completed within the designated timeline, and no additional time will be granted for unexpected issues.",Flexibility,Less Flexible
+"All technical documentation must adhere to the specified format, with no flexibility for additional documentation beyond what is listed.",Flexibility,Less Flexible
+"The project will allow some variation in quantities by 15%, reflecting slight flexibility in the scope.",Flexibility,Less Flexible
+The system should allow seamless integration with external systems and scalability for future needs.,Flexibility,Less Flexible
+"The project will have a fixed set of core features, with some flexibility for minor modifications based on user feedback. However, significant changes to the system architecture or major feature additions are not expected during the initial rollout phase.",Flexibility,Less Flexible
+"While the system will be primarily designed with a specific set of functionalities, minor adjustments can be made as needed. However, any substantial changes to core components will require additional budget approval and time extensions.",Flexibility,Less Flexible
+"The scope of this project is well-defined, with little flexibility for major adjustments. Changes to key functionalities can be made only within the defined parameters, with any modifications outside of these requiring re-evaluation.",Flexibility,Less Flexible
+The system is designed to meet the core requirements with limited adaptability to future changes.,Flexibility,Less Flexible
+The architecture is stable but allows for only incremental changes in functionality.,Flexibility,Less Flexible
+The system's structure prioritizes consistency over the ability to incorporate frequent updates.,Flexibility,Less Flexible
+Any adjustments to the system may require additional planning and resources.,Flexibility,Less Flexible
+"While the system can handle some updates, significant changes would need careful consideration.",Flexibility,Less Flexible
+"The system's scope is limited to internal medical support for employees and families, without integration of advanced or external systems.",Complex Projects,Low
+"The app scope is limited to internal operations, without advanced integrations or highly technical features.",Complex Projects,Low
+"The tool provides a simple way for users to input necessary information and compare salaries, indicating a low-cost, user-driven approach.",Cost,Low
+"The system saves user feedback in the database but does not actively update algorithms based on it, requiring minimal ongoing maintenance.",Maintenance,Low
+The document describes basic functionalities but lacks explicit mention of detailed technical documentation or user manuals.,Documentation,Low
+"The tool operates with basic comparison features and profile management, with no advanced system integrations or complex workflows.",Complex Projects,Low
+"The system requires a simple registration feature for users, with no additional integrations or custom functionalities.",Complex Projects,Low
+The project involves updating the website's homepage design without changing the underlying architecture or database structure.,Complex Projects,Low
+"The system will require basic CRUD (Create, Read, Update, Delete) operations for managing user data, with no advanced workflows or logic.",Complex Projects,Low
+The project involves deploying a static website with pre-defined content and no interactive features or dynamic functionalities.,Complex Projects,Low
+The system is designed for a single user role and does not involve role-based access control or permissions management.,Complex Projects,Low
+The platform will use an existing open-source framework without significant customizations or additional development.,Complex Projects,Low
+The application requires the addition of a single report generation feature using existing data sources and no new integrations.,Complex Projects,Low
+The project involves fixing minor bugs and making small UI adjustments to improve user experience.,Complex Projects,Low
+"The system requires a simple data import/export feature using CSV files, with no advanced processing or transformation.",Complex Projects,Low
+The software will only involve setting up a pre-configured SaaS (Software as a Service) solution without any modifications or customizations.,Complex Projects,Low
+Maintenance includes addressing issues during the execution phase and providing technical support for smooth operation until the project end date.,Maintenance,Low
+The vendor will need to provide basic web development and maintenance skills to implement the project. The project does not require extensive expertise in cutting-edge technologies but rather proficiency in common programming languages and tools.,Expertise,Low
+"This project entails minor changes and updates to the user interface and back-end, which can be handled with basic development and support skills. Expertise in advanced programming or architecture is not required.",Expertise,Low
+The vendor needs to provide basic software development and maintenance expertise to enhance the existing platform. The required skill set is limited to fundamental programming languages and basic project management.,Expertise,Low
+The system is cost-effective and delivers strong value with efficient use of resources.,Cost,Low
+"The project will require a modest investment, ensuring that the budget is managed effectively.",Cost,Low
+A reasonable budget allocation ensures that the solution remains affordable while meeting essential requirements.,Cost,Low
+The overall cost is kept minimal by utilizing existing infrastructure and technology.,Cost,Low
+"The system offers a cost-efficient solution, focusing on maximizing value with controlled spending.",Cost,Low
+The system requires minimal ongoing maintenance due to its stable architecture.,Maintenance,Low
+"Ongoing maintenance needs are limited, focusing on routine checks and minor updates.",Maintenance,Low
+The system operates efficiently with very few issues requiring attention.,Maintenance,Low
+"Post-deployment support is light, with the majority of tasks automated for ease of use.",Maintenance,Low
+"Maintenance requirements are minimal, ensuring smooth long-term operation.",Maintenance,Low
+"The documentation is minimal, focusing only on the most essential functions.",Documentation,Low
+"Detailed explanations of certain features are omitted, leaving some sections under-explained.",Documentation,Low
+The user manual may not include all possible use cases or advanced configurations.,Documentation,Low
+"Key parts of the documentation are sparse, and users may need to seek further guidance.",Documentation,Low
+The provided documentation covers the basics but lacks sufficient detail for troubleshooting and advanced usage.,Documentation,Low
+"The teams technical experience is limited, requiring additional training or support to address certain project needs.",Expertise,Low
+"The project does not require high-level expertise, relying on basic skills and knowledge.",Expertise,Low
+The vendors experience in the required technologies is not well-established.,Expertise,Low
+"The project can be handled by a less experienced team, with limited expertise needed in specific areas.",Expertise,Low
+"The system will be developed with basic technical knowledge, and complex issues may require external assistance.",Expertise,Low
+"The project is relatively simple, with minimal challenges or complex requirements.",Complex Projects,Low
+"The systems functionality is basic, requiring little technical expertise for development.",Complex Projects,Low
+The solution involves straightforward processes that do not require extensive planning or integration.,Complex Projects,Low
+"The project scope is small, and the complexity of its execution is limited.",Complex Projects,Low
+"The system is designed for simplicity, with few technical challenges involved in its creation.",Complex Projects,Low
+"The system will primarily function as a backend tool for administrators, with minimal interaction from end users.",User Involvement,Low Required
+The project involves automating internal workflows without requiring user feedback or customization.,User Involvement,Low Required
+"The platform will generate scheduled reports automatically, with no user intervention required to trigger the process.",User Involvement,Low Required
+The application is a standalone utility designed for occasional use by a single administrator.,User Involvement,Low Required
+"The system requires minimal configuration by users, as all settings will be pre-configured during deployment.",User Involvement,Low Required
+"The software will serve as a monitoring tool, displaying data in real-time dashboards without user interaction.",User Involvement,Low Required
+"The project is limited to developing a static informational website, with no forms or user-driven functionalities.",User Involvement,Low Required
+"The system will automatically handle data synchronization between databases, with no user input or manual triggers needed.",User Involvement,Low Required
+"The platform will deliver pre-defined insights and analytics, eliminating the need for users to customize or configure data parameters.",User Involvement,Low Required
+"The system is designed to perform background tasks such as data backups, requiring no direct user involvement or supervision.",User Involvement,Low Required
+"The engagement is for a period of 6 months, from January to June 2022.",Delivery Time,Medium
+"The entire work of software development, testing and training should be completed and ready for hosting within [November, 2022] from the date of receipt of letter of award.",Delivery Time,Medium
+The duration of the contract is up to June 2023 and to be effective from the date of signing.,Delivery Time,Medium
+"The duration of the assignment is 120 man-days, broken into specific phases such as scoping, development, testing, and delivery.",Delivery Time,Medium
+"The project timeline spans 6 months, with clearly defined deliverables including system design, software development, deployment, and user training.",Delivery Time,Medium
+"The duration of the assignment is six months after signing the contract, excluding the maintenance and support period.",Delivery Time,Medium
+The project is expected to commence in May 2018 and continue for a total duration of 24 months.,Delivery Time,Medium
+"Designed specifically for organizations providing internal medical support, implying moderate investment in a streamlined solution.",Cost,Medium
+"Doctors can generate prescriptions, track follow-ups, and manage patient profiles, requiring consistent updates and system monitoring.",Maintenance,Medium
+"The system includes a platform for maintaining medical records, prescriptions, and follow-up tracking but lacks explicit reference to comprehensive technical documentation.",Documentation,Medium
+"The development process follows Scrum methodology, indicating a need for moderate technical expertise and agile practices.",Expertise,Medium
+"The app is developed internally to streamline employee interactions, indicating moderate resource allocation.",Cost,Medium
+"Features like attendance tracking, leave management, and recharge facilities require consistent updates and maintenance.",Maintenance,Medium
+The document mentions app features but does not explicitly refer to detailed technical or user documentation.,Documentation,Medium
+"The development process follows Scrum methodology, indicating moderate technical expertise and iterative development practices.",Expertise,Medium
+"The total duration of the project is 20 weeks, including requirements analysis, design, development, and deployment.",Delivery Time,Medium
+"The project timeline is 28 weeks, covering requirements analysis, system design, development, and deployment.",Delivery Time,Medium
+"The project duration is 36 weeks, including all phases from requirements analysis to deployment and post-deployment support.",Delivery Time,Medium
+"The project duration is 27 weeks, covering all phases from requirements analysis to deployment.",Delivery Time,Medium
+"The project timeline spans 24 weeks, including requirement analysis, development, testing, and deployment.",Delivery Time,Medium
+"The timeline is 32 weeks, covering analysis, development, deployment, and post-deployment support.",Delivery Time,Medium
+"The tool requires integration with Google sign-in and the development of a salary comparison algorithm, necessitating moderate technical expertise.",Expertise,Medium
+"The tool focuses on salary comparison and feedback functionalities, meeting targeted but limited user needs.",Requirements,Incomplete
+The system will include a user management module with role-based access control for two distinct user roles (Admin and User).,Complex Projects,Medium
+"The project requires integrating an existing payment gateway (e.g., PayPal or Stripe) to enable online transactions.",Complex Projects,Medium
+"The platform will allow the generation of reports using multiple data filters, with an option to export reports in PDF and Excel formats.",Complex Projects,Medium
+The system will involve the development of a responsive user interface optimized for both desktop and mobile devices.,Complex Projects,Medium
+The project involves setting up an API to allow third-party applications to retrieve data from the system.,Complex Projects,Medium
+"The platform must support data synchronization between two systems, ensuring consistency within a specified time interval (e.g., hourly updates).",Complex Projects,Medium
+The system requires the implementation of a basic notification mechanism using email and SMS for user alerts.,Complex Projects,Medium
+The project will require the deployment of a staging environment for testing before moving updates to the production system.,Complex Projects,Medium
+"The application will support multiple languages for content, with a language selection option available to end users.",Complex Projects,Medium
+The system must provide data backup and recovery mechanisms to ensure minimal downtime during unexpected system failures.,Complex Projects,Medium
+"The total cost for the project is expected to be fixed and in Bangladesh Taka, with no additional allowances for changes.",Cost,Medium
+The project involves integrating multiple datasets and ensuring secure access for various stakeholders.,Complex Projects,Medium
+"The project, including software development, data-entry and training, will have to be completed in 12 (Twelve) months which includes Piloting and updates required after Piloting",Delivery Time,Medium
+The project requires a centralized web server setup with lightweight and rich client-side scripting for optimal performance,Complex Projects,Medium
+"Total duration of the assignment is 15 months, including piloting, troubleshooting, and support phases. The project requires the delivery of the final solution within 4 months after the inception report submission.",Delivery Time,Medium
+Vendor must have experience in managing large-scale IT projects for the Government of Bangladesh. The team must include a security expert and senior software engineers with over 5 years of experience.,Expertise,Medium
+The project involves integrating the system with FSCD ID card and attendance software while ensuring compliance with data security standards. The system requires cross-platform browser compatibility and responsiveness.,Complex Projects,Medium
+"The vendor should have experience with large-scale IT projects involving ITS, field devices, and network operation centers.",Expertise,Medium
+The implementation phase involves nationwide deployment with phased rollout in multiple regions within 18 months,Delivery Time,Medium
+"The vendor will propose required technical capacity, number of resources mentioning their roles and responsibilities from implementing agency to carry forward this plan",Expertise,Medium
+"Cost estimates include expenses for tools, licenses, and training modules, with detailed breakdowns.",Cost,Medium
+Requirements from the stakeholders to enhance e-Court functionalities and support certificate court activities.,User Involvement,Highly Required
+System should have portability to connect all courts and allow integration among judicial services.,Flexibility,Less Flexible
+"Cost includes expenses for tools, licenses, and training modules to ensure smooth implementation of the system.",Cost,Medium
+Implementation phase is scheduled to last 18 months with deliverables at quarterly intervals for monitoring progress.,Delivery Time,Medium
+"Support and maintenance for a minimum of three years, including troubleshooting and training for administrators.",Maintenance,Medium
+"Prepare comprehensive documentation, including user manuals, system design, and test cases for web application software and mobile apps.",Documentation,Full
+"Cost includes expenses for software licenses, server maintenance, and training programs for staff.",Cost,Medium
+"The team must include highly experienced engineers, database administrators, and IT specialists.",Expertise,Medium
+"The implementation phase is planned for completion within 12 months, with quarterly progress reports.",Delivery Time,Medium
+"Support and maintenance services for the software, including updates and troubleshooting for one year.",Maintenance,Medium
+"The budget for the project includes costs for software licenses, server infrastructure, and end-user training programs.",Cost,Medium
+"The project timeline is set for a 12-month completion period.The following outputs will have to be delivered within a maximum period of 12 months after
+signing the contract requiring the following deliverables.",Delivery Time,Medium
+"The consultant will provide all kinds of technical support during the
+contract period (12 months).",Delivery Time,Medium
+"The consultant will provide warranty for 06 (six) months after the
+end of contract period with free of cost.",Maintenance,Medium
+"The expected total duration for the development, testing, and deployment phases of the project is estimated at 12 months, with a phased approach for system rollouts and stakeholder training.",Delivery Time,Medium
+"Please note that package 1 & package 2 can start development simultaneously but total 
+development, deployment completion & go live period starting the pilot implementation 
+should not exceed 12(Twelve) months. Maintenance period can start independently for both 
+packages depends on each package pilot starting. It may be noted here the pilot 
+implementation period for each package may be for six months separately.",Delivery Time,Medium
+"Vendor will require to provide maintenance and support 
+services plan for next 2 (Two) years. If this project is divided into multiple packages (as 
+planned), then maintenance phase will be started from the piloting independently for each 
+package. ",Maintenance,Medium
+The timeline for project implementation includes early deliverables for core system functionality within the first six months.,Delivery Time,Medium
+Total Duration of the assignment is 1 calendar year.,Delivery Time,Medium
+"Minimum 4 years experience in ICT business as a registered company/entity in Bangladesh. Registered entity with Register of joint stock & companies (RJSC) in Bangladesh. Must have 3 years practical experience of developing web-based enterprise solution. Experience of developing Software Solution for Government of Bangladesh or any of its agencies 
+will be an added advantage. Vendor needs to have at least one existing running software solution in Bangladesh in either 
+Government or in other corporate Sector in Document management or File Management or data Management or Workflow Management. Needs to have full time experienced human resource in Software Development, Database management, System Analysis, Security, Project Management and in Support. Needs to have Test Environment ready with equipped devices at vendor premise. ",Expertise,Medium
+"The project requires a balanced investment, considering both functional requirements and available resources.",Cost,Medium
+"The cost is aligned with the scope and capabilities of the system, ensuring that it meets objectives without exceeding the budget.",Cost,Medium
+A moderate budget allocation ensures that all necessary features are included while maintaining financial feasibility.,Cost,Medium
+"The solution is priced reasonably, offering a good balance between features and cost.",Cost,Medium
+The cost is proportional to the value and capabilities delivered by the system.,Cost,Medium
+The system will require periodic updates and monitoring to ensure it continues to function effectively.,Maintenance,Medium
+Regular maintenance and troubleshooting will be necessary to keep the system running smoothly.,Maintenance,Medium
+Occasional updates will be needed to address any emerging issues and improve system functionality.,Maintenance,Medium
+The system requires periodic maintenance to ensure it stays aligned with evolving needs.,Maintenance,Medium
+"Maintenance will include scheduled updates and support, ensuring the system operates without interruptions.",Maintenance,Medium
+The documentation will be comprehensive but may require additional clarifications for advanced users.,Documentation,Medium
+"While the user manual will cover the basics, more complex functions may need supplementary documentation.",Documentation,Medium
+The provided documentation will meet standard needs but may require occasional updates for full clarity.,Documentation,Medium
+"Basic documentation will be included, with additional resources available for more detailed use cases.",Documentation,Medium
+"The system documentation will address key functions, with space for further elaboration on advanced features.",Documentation,Medium
+"The project involves moderate complexity, requiring a mix of standard and custom solutions.",Complex Projects,Medium
+"The system requires moderate effort to design and implement, involving some technical challenges.",Complex Projects,Medium
+"The project will involve integrating multiple components, but the overall design remains manageable.",Complex Projects,Medium
+"The development process will require expertise in several areas, but it is not excessively complex.",Complex Projects,Medium
+"The system involves custom development, but the complexity is manageable with the right resources.",Complex Projects,Medium
+The system must be developed strictly according to the pre-approved design document with no changes allowed after the approval stage.,Flexibility,Not Flexible
+"The project timeline is fixed, and no extensions or adjustments will be permitted once the schedule is finalized.",Flexibility,Not Flexible
+Changes to the scope of work will not be entertained after the contract is signed.,Flexibility,Not Flexible
+The deliverables and milestones are strictly defined and cannot be modified during the project execution.,Flexibility,Not Flexible
+The system must adhere to the predefined technical specifications without accommodating additional functionalities during development.,Flexibility,Not Flexible
+"The architecture of the system is fixed, and modifications are not allowed during the implementation phase.",Flexibility,Not Flexible
+"The testing phase will adhere strictly to the predefined test cases, and no additional test scenarios will be introduced.",Flexibility,Not Flexible
+The system will not support integration with third-party tools unless explicitly mentioned in the original requirements.,Flexibility,Not Flexible
+The user interface design will follow the pre-approved wireframes without any scope for customization during development.,Flexibility,Not Flexible
+"All requirements must be delivered exactly as specified in the initial contract, with no flexibility for additional user requests.",Flexibility,Not Flexible
+"The platform must comply with the original security framework provided, with no flexibility for alternative solutions.",Flexibility,Not Flexible
+"The scope of the project is fixed, and no adjustments will be allowed to accommodate changes in stakeholder needs during development.",Flexibility,Not Flexible
+The deliverables must be implemented without any iterative feedback process from users or stakeholders.,Flexibility,Not Flexible
+No changes to the system core functionalities will be entertained once development has begun.,Flexibility,Not Flexible
+The system requirements and deliverables are strictly defined and any changes to the scope will not be accommodated during the implementation phase. All functionalities must be completed as per the original design and specifications.,Flexibility,Not Flexible
+"The scope of the project is fixed, and no changes will be entertained once the design phase has been finalized. All tasks and milestones are predetermined, and deviations from the plan will not be permitted.",Flexibility,Not Flexible
+"The project is based on a rigid set of requirements that must be strictly followed. No changes or additions will be considered once the development phase begins, and any new features will only be discussed for future phases.",Flexibility,Not Flexible
+The system cannot accommodate changes in functionality after implementation without major redevelopment.,Flexibility,Not Flexible
+Modifying the system after deployment would require extensive planning and potentially redesigning parts.,Flexibility,Not Flexible
+The platform has limited options for expansion or integration with external systems.,Flexibility,Not Flexible
+New features or changes are not easily accommodated within the current system design.,Flexibility,Not Flexible
+Changes to the system require complete overhauls rather than simple updates.,Flexibility,Not Flexible
+The system is fully automated and does not require any manual input or interaction from users.,User Involvement,Not Required
+The project involves setting up a scheduled data backup process that runs without any user intervention.,User Involvement,Not Required
+The application is designed to generate daily reports and email them to stakeholders without requiring user interaction.,User Involvement,Not Required
+The system will perform periodic system health checks and provide automated alerts to administrators without user involvement.,User Involvement,Not Required
+The project focuses on building a backend data processing pipeline that operates entirely in the background.,User Involvement,Not Required
+"The software is designed to handle automatic updates and self-recovery in case of errors, with no user supervision needed.",User Involvement,Not Required
+The system will use pre-configured settings to process data and generate outputs without any customization or user input.,User Involvement,Not Required
+"The platform is a background service tool for syncing data between servers, with no user-facing components.",User Involvement,Not Required
+"The system will monitor server performance metrics and trigger notifications to administrators automatically, requiring no user intervention.",User Involvement,Not Required
+The software is a static content delivery application that requires no interaction or configuration from users.,User Involvement,Not Required
+The system is designed to operate independently without the need for regular user feedback or input.,User Involvement,Not Required
+User engagement will not be part of the ongoing process post-deployment.,User Involvement,Not Required
+The development process will proceed without involving users in the testing or feedback stages.,User Involvement,Not Required
+There is no plan to involve end-users in the system's ongoing evaluation after initial deployment.,User Involvement,Not Required
+"The system functionality will be fully determined by the development team, with no further user involvement required.",User Involvement,Not Required
+User involvement is expected during the testing phase and in providing feedback on data accuracy.,User Involvement,Required
+"The system will require regular user feedback to ensure that the functionalities meet the expectations of the service recipients, such as importers, C&F agents, and government authorities. Involvement will include user acceptance testing (UAT) and periodic reviews of the system's performance.",User Involvement,Required
+"the system aims to address user feedback and change requests. This implies that user involvement is required for the continuous improvement and troubleshooting of the system. Workshops and Knowledge Transfer are part of the scope, where there are collaborations with system development experts, a2i team, and data center experts. This could also involve user feedback and participation.",User Involvement,Required
+Continuous user feedback will be crucial to ensuring that the system meets the practical needs of its users.,User Involvement,Required
+"Regular user involvement will help shape the system development, ensuring it is user-friendly and effective.",User Involvement,Required
+Users will actively participate in testing phases to provide valuable insights into system functionality.,User Involvement,Required
+The project will include workshops and training sessions to engage users and enhance system usability.,User Involvement,Required
+"The development, establishment, and operation testing are to be completed within two months (February 10, 2022, to April 10, 2022).",Delivery Time,Too Early
